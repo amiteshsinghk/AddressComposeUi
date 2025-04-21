@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Porter Interview</string>
+    <string name="back">Back</string>
+    <string name="address_successfully_copied">Address Successfully Copied</string>
+    <string name="save_addresses">Save Addresses</string>
+    <string name="type_4_chars_to_start_searching">Type 4 chars to start searching.</string>
+    <string name="search">Search</string>
+    <string name="dropdown">Dropdown</string>
+    <string name="most_used">MOST USED</string>
+    <string name="copy">Copy</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
